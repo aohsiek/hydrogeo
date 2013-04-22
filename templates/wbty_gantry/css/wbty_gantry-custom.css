@@ -52,6 +52,11 @@ Footer
 Text Modifiers
 ============*/
 h1, h2, h3, h4, h5 {font-weight: lighter; font-family: 'Questrial', 'Helvetica', arial, serif;}
+h1 {font-size: 4.5em; color: #8e3313;}
+h2 {font-size: 3.0em; color: #002060;}
+h3 {font-size: 2.0em; color: #002060;}
+h4 {font-size: 1.4em; color: #002060;}
+h5 {font-size: 1.4em; color: #8e3313;}
 
 @media (max-width: 480px) {
 }
