@@ -23,7 +23,7 @@ Navigation
 ========*/
 /* Navigation - Core */
 .menu-block {padding: 0 15px 15px 15px; margin: 5px 10px 10px 10px;}
-.gf-menu {position: relative; float: right; right: 50%; font-family: 'Source Sans Pro', Helvetica, Arial, Sans-Serif !important;}
+.gf-menu {position: relative; float: right; right: 50%; font-family: 'Source Sans Pro', Helvetica, Arial, Sans-Serif;}
 
 /* Navigation - Static */
 .gf-menu.l1 > li {left: 50%;}
