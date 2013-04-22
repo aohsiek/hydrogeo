@@ -8,7 +8,7 @@
 /*==
 Core
 ==*/
-body {color: #111111; background: url(../images/patterns/noise.png) #953d1f;}
+body {color: #111111; background: url(../images/patterns/noise.png) #953d1f; font-family: 'Source Sans Pro', Helvetica, Arial, Sans-Serif;}
 #gantry-viewswitcher {margin: 5px auto;position: relative;top:auto;right:0;}
 div {position:relative;}
 
