@@ -1,0 +1,66 @@
+/**
+ * @version   3.2.17 March 5, 2012
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+
+/*==
+Core
+==*/
+body {color: #111111;}
+#gantry-viewswitcher {margin: 5px auto;position: relative;top:auto;right:0;}
+div {position:relative;}
+
+/*====
+Header
+====*/
+#rt-logo {margin: 0 auto; max-width:100%;}
+body #rt-logo { background-size:100% !important;}
+
+/*========
+Navigation
+========*/
+/* Navigation - Core */
+.menu-block {padding: 0 15px 15px 15px; margin: 5px 10px 10px 10px;}
+.gf-menu {position: relative; float: right; right: 50%;}
+
+/* Navigation - Static */
+.gf-menu.l1 > li {left: 50%;}
+.gf-menu.l1 > li > .item {font-size: 1.3em;}
+
+/* Navigation - Hovers */
+.gf-menu li:hover > .item {color: #666 !important;}
+
+/* Navigation - Dropdowns */
+.gf-menu .dropdown {border: none; background: #fff;}
+
+
+/*==========
+Main Content
+==========*/
+
+/*====
+Footer 
+====*/
+#rt-copyright .rt-block {text-align: center;}
+
+/*============
+Text Modifiers
+============*/
+h1, h2, h3, h4 {font-weight: lighter;}
+
+@media (max-width: 480px) {
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+}
+
+@media (min-width: 980px) {
+}
+
+@media (min-width: 1200px) {
+}
