@@ -17,6 +17,7 @@ Header
 ====*/
 #rt-logo {margin: 0 auto; max-width:100%;}
 body #rt-logo { background-size:100% !important;}
+#rt-header .rt-container {margin-left: 10px; margin-right: 10px;}
 
 /*========
 Navigation
