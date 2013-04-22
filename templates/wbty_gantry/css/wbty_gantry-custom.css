@@ -8,7 +8,7 @@
 /*==
 Core
 ==*/
-body {color: #111111; background: url(../images/patterns/noise.png) #953d1f; font-family: 'Source Sans Pro', Helvetica, Arial, Sans-Serif;}
+body {color: #333333; background: url(../images/patterns/noise.png) #953d1f; font-family: 'Source Sans Pro', Helvetica, Arial, Sans-Serif;}
 #gantry-viewswitcher {margin: 5px auto;position: relative;top:auto;right:0;}
 div {position:relative;}
 
@@ -51,7 +51,7 @@ Footer
 /*============
 Text Modifiers
 ============*/
-h1, h2, h3, h4 {font-weight: lighter;}
+h1, h2, h3, h4, h5 {font-weight: lighter; font-family: 'Questrial', 'Helvetica', arial, serif;}
 
 @media (max-width: 480px) {
 }
