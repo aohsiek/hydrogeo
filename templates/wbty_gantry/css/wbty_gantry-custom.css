@@ -17,7 +17,6 @@ Header
 ====*/
 #rt-logo {margin: 0 auto; max-width:100%;}
 body #rt-logo { background-size:100% !important;}
-#rt-header .rt-container {margin-left: 10px; margin-right: 10px;}
 
 /*========
 Navigation
@@ -56,13 +55,17 @@ h1, h2, h3, h4 {font-weight: lighter;}
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
+#rt-header .rt-container {width: 460px;}
 }
 
-@media (min-width: 768px) and (max-width: 979px) {
+@media (min-width: 768px) and (max-width: 959px) {
+#rt-header .rt-container {width: 748px;}
 }
 
-@media (min-width: 980px) {
+@media (min-width: 960px) {
+#rt-header .rt-container {width: 940px;}
 }
 
 @media (min-width: 1200px) {
+#rt-header .rt-container {width: 1180px;}
 }
