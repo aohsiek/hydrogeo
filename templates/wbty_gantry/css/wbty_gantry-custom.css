@@ -22,12 +22,12 @@ body #rt-logo { background-size:100% !important;}
 Navigation
 ========*/
 /* Navigation - Core */
-.menu-block {padding: 0 15px 15px 15px; margin: 5px 10px 10px 10px;}
-.gf-menu {position: relative; float: right; right: 50%; font-family: 'Source Sans Pro', Helvetica, Arial, Sans-Serif;}
+.menu-block {padding: 15px; margin: 5px 10px 10px 10px;}
+.gf-menu {position: relative; float: right; right: 50%; font-family: 'Source Sans Pro', Helvetica, Arial, Sans-Serif; text-transform: uppercase;}
 
 /* Navigation - Static */
 .gf-menu.l1 > li {left: 50%;}
-.gf-menu.l1 > li > .item {font-size: 1.3em;}
+.gf-menu.l1 > li > .item {font-size: 1.0em;}
 
 /* Navigation - Hovers */
 .gf-menu li:hover > .item {color: #666 !important;}
