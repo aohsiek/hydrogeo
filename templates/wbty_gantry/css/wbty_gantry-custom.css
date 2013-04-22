@@ -40,8 +40,8 @@ Navigation
 Main Content
 ==========*/
 #rt-header .rt-container, #rt-transition .rt-block {background: #ffffff;}
-.rt-alpha .rt-block {margin-left: 0;}
-.rt-omega .rt-block {margin-right: 0}
+.rt-alpha .rt-block, .rt-grid-12 .rt-block {margin-left: 0;}
+.rt-omega .rt-block, .rt-grid-12 .rt-block {margin-right: 0;}
 
 /*====
 Footer 
