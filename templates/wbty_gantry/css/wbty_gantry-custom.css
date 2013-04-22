@@ -39,6 +39,7 @@ Navigation
 /*==========
 Main Content
 ==========*/
+#rt-header .rt-container, #rt-transition .rt-block {background: #ffffff;}
 
 /*====
 Footer 
