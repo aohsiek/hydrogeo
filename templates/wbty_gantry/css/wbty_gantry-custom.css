@@ -36,7 +36,7 @@ Navigation
 .gf-menu .dropdown {border: none; background: #fff;}
 
 /* Navigation - Active */
-.gf-menu.l1 > li.active{color: #8e3313}
+.gf-menu.l1 > li.active a {color: #8e3313}
 
 
 /*==========
